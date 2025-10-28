@@ -40,7 +40,7 @@ It uses the **Open-Meteo Weather API** to fetch real-time weather data and displ
 
 ## 🖼️ Screenshots
 
-> *(weather1.png)*
+> ![Preview](https://github.com/mnesa/weatherApp/blob/main/weather1.png)
 
 
 
